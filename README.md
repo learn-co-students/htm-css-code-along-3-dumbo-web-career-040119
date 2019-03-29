@@ -1,6 +1,6 @@
 ## Overview
 
-In this code along exercise we will be adding style to our pages using external CSS.
+In this code along exercise we will be adding style to our pages using external CSS
 
 ## Steps
 
